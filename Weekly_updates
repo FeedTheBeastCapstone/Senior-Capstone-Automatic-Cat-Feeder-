@@ -1,4 +1,9 @@
-# Noah Tawny (09/16/2024)
+# Noah Tawney (09/16/2024)
 # I successfully implemented the main app UI on my Android phone
 # Currently adjusting size parameters and image placement
-# Next week will have a completed schedule integration for scheduled feeding
+# Next week, I will have a completed schedule integration for scheduled feeding
+
+
+# Noah Tawney (09/23/2024)
+# Successfully created a database for storing schedules and other information
+# Next week, I will have the schedule tracked with the phone clock and mark scheduled days with a ping.
